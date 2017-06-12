@@ -6,7 +6,7 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name='django-filebrowser',
+    name='bbhome-filebrowser',
     version='3.7.2',
     description='Media-Management with Grappelli',
     long_description=read('README.rst'),
