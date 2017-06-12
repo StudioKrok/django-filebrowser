@@ -1,3 +1,9 @@
+This is a fork from https://github.com/sehmaschine/django-filebrowser.
+We need this because of one little incompatibility with the current django version.
+As soon as https://github.com/sehmaschine/django-filebrowser/pull/331 has been accepted, we can move to the official version.
+
+To install, execute `python ./setup.py install` at the root of the project.
+
 Django FileBrowser
 ==================
 .. image:: https://api.travis-ci.org/sehmaschine/django-filebrowser.svg
